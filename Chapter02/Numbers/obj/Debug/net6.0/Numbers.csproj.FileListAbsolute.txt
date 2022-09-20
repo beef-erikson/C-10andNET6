@@ -1,0 +1,15 @@
+C:\Users\beef_\Desktop\bookSource\Chapter02\Numbers\bin\Debug\net6.0\Numbers.exe
+C:\Users\beef_\Desktop\bookSource\Chapter02\Numbers\bin\Debug\net6.0\Numbers.deps.json
+C:\Users\beef_\Desktop\bookSource\Chapter02\Numbers\bin\Debug\net6.0\Numbers.runtimeconfig.json
+C:\Users\beef_\Desktop\bookSource\Chapter02\Numbers\bin\Debug\net6.0\Numbers.dll
+C:\Users\beef_\Desktop\bookSource\Chapter02\Numbers\bin\Debug\net6.0\Numbers.pdb
+C:\Users\beef_\Desktop\bookSource\Chapter02\Numbers\obj\Debug\net6.0\Numbers.csproj.AssemblyReference.cache
+C:\Users\beef_\Desktop\bookSource\Chapter02\Numbers\obj\Debug\net6.0\Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beef_\Desktop\bookSource\Chapter02\Numbers\obj\Debug\net6.0\Numbers.AssemblyInfoInputs.cache
+C:\Users\beef_\Desktop\bookSource\Chapter02\Numbers\obj\Debug\net6.0\Numbers.AssemblyInfo.cs
+C:\Users\beef_\Desktop\bookSource\Chapter02\Numbers\obj\Debug\net6.0\Numbers.csproj.CoreCompileInputs.cache
+C:\Users\beef_\Desktop\bookSource\Chapter02\Numbers\obj\Debug\net6.0\Numbers.dll
+C:\Users\beef_\Desktop\bookSource\Chapter02\Numbers\obj\Debug\net6.0\refint\Numbers.dll
+C:\Users\beef_\Desktop\bookSource\Chapter02\Numbers\obj\Debug\net6.0\Numbers.pdb
+C:\Users\beef_\Desktop\bookSource\Chapter02\Numbers\obj\Debug\net6.0\Numbers.genruntimeconfig.cache
+C:\Users\beef_\Desktop\bookSource\Chapter02\Numbers\obj\Debug\net6.0\ref\Numbers.dll

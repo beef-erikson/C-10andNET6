@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "piBaCoRkoRbyBrfZ27VW6Ge6fIactbzEJAjXSN7tWlSSo8og4LpzxjpGTlKgsWGtOH0u5QT1KRBFFv5qfZYk6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\beef_\\Desktop\\bookSource\\Chapter01\\HelloCS\\HelloCS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\beef_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

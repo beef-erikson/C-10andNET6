@@ -1,0 +1,15 @@
+C:\Users\beef_\Desktop\bookSource\Chapter03\Exercise03\bin\Debug\net6.0\Exercise03.exe
+C:\Users\beef_\Desktop\bookSource\Chapter03\Exercise03\bin\Debug\net6.0\Exercise03.deps.json
+C:\Users\beef_\Desktop\bookSource\Chapter03\Exercise03\bin\Debug\net6.0\Exercise03.runtimeconfig.json
+C:\Users\beef_\Desktop\bookSource\Chapter03\Exercise03\bin\Debug\net6.0\Exercise03.dll
+C:\Users\beef_\Desktop\bookSource\Chapter03\Exercise03\bin\Debug\net6.0\Exercise03.pdb
+C:\Users\beef_\Desktop\bookSource\Chapter03\Exercise03\obj\Debug\net6.0\Exercise03.csproj.AssemblyReference.cache
+C:\Users\beef_\Desktop\bookSource\Chapter03\Exercise03\obj\Debug\net6.0\Exercise03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beef_\Desktop\bookSource\Chapter03\Exercise03\obj\Debug\net6.0\Exercise03.AssemblyInfoInputs.cache
+C:\Users\beef_\Desktop\bookSource\Chapter03\Exercise03\obj\Debug\net6.0\Exercise03.AssemblyInfo.cs
+C:\Users\beef_\Desktop\bookSource\Chapter03\Exercise03\obj\Debug\net6.0\Exercise03.csproj.CoreCompileInputs.cache
+C:\Users\beef_\Desktop\bookSource\Chapter03\Exercise03\obj\Debug\net6.0\Exercise03.dll
+C:\Users\beef_\Desktop\bookSource\Chapter03\Exercise03\obj\Debug\net6.0\refint\Exercise03.dll
+C:\Users\beef_\Desktop\bookSource\Chapter03\Exercise03\obj\Debug\net6.0\Exercise03.pdb
+C:\Users\beef_\Desktop\bookSource\Chapter03\Exercise03\obj\Debug\net6.0\Exercise03.genruntimeconfig.cache
+C:\Users\beef_\Desktop\bookSource\Chapter03\Exercise03\obj\Debug\net6.0\ref\Exercise03.dll
