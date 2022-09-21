@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "92LqcN8gKWMsCvXITMIGLl4YTNvLGb59xLq2VMj1V04N4euqtMTKFzu9TdVajterqik+REijU+w4rKyuCKt97g==",
+  "dgSpecHash": "WkOrker1IXeHBOWSc1JdGjKooKjcL0zBtRBcOyLdEyAAaKVZmOJlKRm9KKSWLsSISlxA34XaRO8zx1LdMfJPJg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\beef_\\Desktop\\bookSource\\Chapter04\\CalculatorLib\\CalculatorLib.csproj",
+  "projectFilePath": "c:\\Users\\beef_\\Desktop\\bookSource\\Chapter04\\CalculatorLib\\CalculatorLib.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
