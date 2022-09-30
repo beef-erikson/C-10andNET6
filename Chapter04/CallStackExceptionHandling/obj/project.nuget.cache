@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aWeGsT4+TZOsPdgQYhsTR415XWj59y0UVS8Lq4YrfrxCO8UpOIs8TykZpZAvo9QY+Wys+e1/r9O0UT20v5Hy5Q==",
+  "dgSpecHash": "FOHjQFFBy0C7bCogZeDR+gXOlQw8VN2EaCVGjbiKE8ThPyCoOrbWUi0UQFYLAx8xJVW82fZKjGRm6oUg8M40AQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\beef_\\Desktop\\bookSource\\Chapter04\\CallStackExceptionHandling\\CallStackExceptionHandling.csproj",
+  "projectFilePath": "c:\\Users\\beef_\\Desktop\\bookSource\\Chapter04\\CallStackExceptionHandling\\CallStackExceptionHandling.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

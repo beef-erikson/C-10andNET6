@@ -544,11 +544,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\beef_\\Desktop\\bookSource\\Chapter04\\Instrumenting\\Instrumenting.csproj",
+      "projectUniqueName": "c:\\Users\\beef_\\Desktop\\bookSource\\Chapter04\\Instrumenting\\Instrumenting.csproj",
       "projectName": "Instrumenting",
-      "projectPath": "C:\\Users\\beef_\\Desktop\\bookSource\\Chapter04\\Instrumenting\\Instrumenting.csproj",
+      "projectPath": "c:\\Users\\beef_\\Desktop\\bookSource\\Chapter04\\Instrumenting\\Instrumenting.csproj",
       "packagesPath": "C:\\Users\\beef_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\beef_\\Desktop\\bookSource\\Chapter04\\Instrumenting\\obj\\",
+      "outputPath": "c:\\Users\\beef_\\Desktop\\bookSource\\Chapter04\\Instrumenting\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -616,7 +616,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
