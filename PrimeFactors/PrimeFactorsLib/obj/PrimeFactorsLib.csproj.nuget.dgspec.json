@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\beef_\\Desktop\\bookSource\\PrimeFactors\\PrimeFactorsLib\\PrimeFactorsLib.csproj": {}
+    "c:\\Users\\beef_\\Desktop\\bookSource\\PrimeFactors\\PrimeFactorsLib\\PrimeFactorsLib.csproj": {}
   },
   "projects": {
-    "C:\\Users\\beef_\\Desktop\\bookSource\\PrimeFactors\\PrimeFactorsLib\\PrimeFactorsLib.csproj": {
+    "c:\\Users\\beef_\\Desktop\\bookSource\\PrimeFactors\\PrimeFactorsLib\\PrimeFactorsLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\beef_\\Desktop\\bookSource\\PrimeFactors\\PrimeFactorsLib\\PrimeFactorsLib.csproj",
+        "projectUniqueName": "c:\\Users\\beef_\\Desktop\\bookSource\\PrimeFactors\\PrimeFactorsLib\\PrimeFactorsLib.csproj",
         "projectName": "PrimeFactorsLib",
-        "projectPath": "C:\\Users\\beef_\\Desktop\\bookSource\\PrimeFactors\\PrimeFactorsLib\\PrimeFactorsLib.csproj",
+        "projectPath": "c:\\Users\\beef_\\Desktop\\bookSource\\PrimeFactors\\PrimeFactorsLib\\PrimeFactorsLib.csproj",
         "packagesPath": "C:\\Users\\beef_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\beef_\\Desktop\\bookSource\\PrimeFactors\\PrimeFactorsLib\\obj\\",
+        "outputPath": "c:\\Users\\beef_\\Desktop\\bookSource\\PrimeFactors\\PrimeFactorsLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

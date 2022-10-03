@@ -6074,11 +6074,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\beef_\\Desktop\\bookSource\\PrimeFactors\\PrimeFactorsLibUnitTest\\PrimeFactorsLibUnitTest.csproj",
+      "projectUniqueName": "c:\\Users\\beef_\\Desktop\\bookSource\\PrimeFactors\\PrimeFactorsLibUnitTest\\PrimeFactorsLibUnitTest.csproj",
       "projectName": "PrimeFactorsLibUnitTest",
-      "projectPath": "C:\\Users\\beef_\\Desktop\\bookSource\\PrimeFactors\\PrimeFactorsLibUnitTest\\PrimeFactorsLibUnitTest.csproj",
+      "projectPath": "c:\\Users\\beef_\\Desktop\\bookSource\\PrimeFactors\\PrimeFactorsLibUnitTest\\PrimeFactorsLibUnitTest.csproj",
       "packagesPath": "C:\\Users\\beef_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\beef_\\Desktop\\bookSource\\PrimeFactors\\PrimeFactorsLibUnitTest\\obj\\",
+      "outputPath": "c:\\Users\\beef_\\Desktop\\bookSource\\PrimeFactors\\PrimeFactorsLibUnitTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -6101,8 +6101,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\beef_\\Desktop\\bookSource\\PrimeFactors\\PrimeFactorsLib\\PrimeFactorsLib.csproj": {
-              "projectPath": "C:\\Users\\beef_\\Desktop\\bookSource\\PrimeFactors\\PrimeFactorsLib\\PrimeFactorsLib.csproj"
+            "c:\\Users\\beef_\\Desktop\\bookSource\\PrimeFactors\\PrimeFactorsLib\\PrimeFactorsLib.csproj": {
+              "projectPath": "c:\\Users\\beef_\\Desktop\\bookSource\\PrimeFactors\\PrimeFactorsLib\\PrimeFactorsLib.csproj"
             }
           }
         }
