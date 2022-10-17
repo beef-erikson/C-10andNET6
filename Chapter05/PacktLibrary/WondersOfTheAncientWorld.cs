@@ -2,7 +2,7 @@ namespace Packt.Shared
 {
     public enum WondersOfTheAncientWorld
     {
-        GreatPyramidOfGize,
+        GreatPyramidsOfGiza,
         HangingGardensOfBabylon,
         StatueOfZeusAtOlympia,
         TempleOfArtemisAtEphesus,

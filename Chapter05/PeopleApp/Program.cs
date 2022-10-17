@@ -7,6 +7,13 @@ using static System.Console;
 Person beef = new();
 beef.Name = "Beef";
 beef.DateOfBirth = new(1981, 6, 2);
+beef.FavoriteAncientWonder = WondersOfTheAncientWorld.GreatPyramidsOfGiza;
+
+WriteLine(
+    format: "{0}'s favorite wonder is {1}. Its integer is {2}.",
+    arg0: beef.Name,
+    arg1: beef.FavoriteAncientWonder,
+    arg2: (int)beef.FavoriteAncientWonder);
 
 WriteLine(format: "{0} was born on {1:dddd, d MMMM yyyy}.",
     arg0: beef.Name,
