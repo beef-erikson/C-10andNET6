@@ -9,6 +9,13 @@ beef.Name = "Beef";
 beef.DateOfBirth = new(1981, 6, 2);
 beef.FavoriteAncientWonder = WondersOfTheAncientWorld.GreatPyramidsOfGiza;
 
+// beef.BucketList = (WondersOfTheAncientWorld)67
+beef.BucketList = WondersOfTheAncientWorld.GreatPyramidsOfGiza |
+    WondersOfTheAncientWorld.HangingGardensOfBabylon |
+    WondersOfTheAncientWorld.ColossusOfRhodes;
+
+WriteLine($"{beef.Name}'s bucket list is {beef.BucketList}");
+
 WriteLine(
     format: "{0}'s favorite wonder is {1}. Its integer is {2}.",
     arg0: beef.Name,
