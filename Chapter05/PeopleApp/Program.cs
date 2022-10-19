@@ -114,3 +114,7 @@ WriteLine($"{thing1.Item1} has {thing1.Item2} children.");
 
 var thing2 = (beef.Name, beef.Children.Count);
 WriteLine($"{thing2.Name} has {thing2.Count} children.");
+
+// Deconstructing tuple
+(string fruitName, int fruitNumber) = beef.GetFruit();
+WriteLine($"Deconstructed: {fruitName}, {fruitNumber}.");
