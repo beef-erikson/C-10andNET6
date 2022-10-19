@@ -14,6 +14,16 @@ beef.BucketList = WondersOfTheAncientWorld.GreatPyramidsOfGiza |
     WondersOfTheAncientWorld.HangingGardensOfBabylon |
     WondersOfTheAncientWorld.ColossusOfRhodes;
 
+beef.Children.Add(new Person { Name = "Boot" });
+beef.Children.Add(new() { Name = "Soup" });
+
+WriteLine($"{beef.Name} has {beef.Children.Count} children: ");
+
+for (int childIndex = 0; childIndex < beef.Children.Count; childIndex++)
+{
+    WriteLine($"    {beef.Children[childIndex].Name}");
+}
+
 WriteLine($"{beef.Name}'s bucket list is {beef.BucketList}");
 
 WriteLine(
