@@ -31,6 +31,9 @@ beef.BucketList = WondersOfTheAncientWorld.GreatPyramidsOfGiza |
     WondersOfTheAncientWorld.HangingGardensOfBabylon |
     WondersOfTheAncientWorld.ColossusOfRhodes;
 
+// Talk about beef's species
+WriteLine($"{beef.Name} is a {Person.Species}.");
+
 // Make some kids
 beef.Children.Add(new Person { Name = "Boot" });
 beef.Children.Add(new() { Name = "Soup" });
