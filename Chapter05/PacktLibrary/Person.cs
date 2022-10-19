@@ -11,5 +11,7 @@ namespace Packt.Shared
         public WondersOfTheAncientWorld BucketList;
         public List<Person> Children = new List<Person>();
         public const string Species = "Homo Sapien";
+        // sometimes readonly is a better solution to const
+        public readonly string HomePlanet = "Earth";
     }
 }

@@ -32,7 +32,7 @@ beef.BucketList = WondersOfTheAncientWorld.GreatPyramidsOfGiza |
     WondersOfTheAncientWorld.ColossusOfRhodes;
 
 // Talk about beef's species
-WriteLine($"{beef.Name} is a {Person.Species}.");
+WriteLine($"{beef.Name} is a {Person.Species} that resides on {beef.HomePlanet}.");
 
 // Make some kids
 beef.Children.Add(new Person { Name = "Boot" });
