@@ -17,6 +17,7 @@ namespace Packt.Shared
         public readonly string HomePlanet = "Earth";
         public readonly DateTime Instantiated;
 
+
         // Constructors
         /// <summary>
         /// Constructor with default values.
@@ -40,6 +41,22 @@ namespace Packt.Shared
             HomePlanet = homePlanet;
             Instantiated = DateTime.Now;
         }
+
+
+        // Deconstructors
+        public void Deconstruct(out string name, out DateTime dob)
+        {
+            name = Name;
+            dob = DateOfBirth;
+        }
+
+        public void Deconstruct(out string name, out DateTime dob, out WondersOfTheAncientWorld fav)
+        {
+            name = Name;
+            dob = DateOfBirth;
+            fav = FavoriteAncientWonder;
+        }
+
 
         // Methods
         /// <summary>

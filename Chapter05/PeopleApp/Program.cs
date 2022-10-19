@@ -118,3 +118,10 @@ WriteLine($"{thing2.Name} has {thing2.Count} children.");
 // Deconstructing tuple
 (string fruitName, int fruitNumber) = beef.GetFruit();
 WriteLine($"Deconstructed: {fruitName}, {fruitNumber}.");
+
+// Deconstructing a Person
+var (name1, dob1) = beef;
+WriteLine($"Deconstructed: {name1}, {dob1}");
+
+var (name2, dob2, fav2) = beef;
+WriteLine($"Deconstructed: {name2}, {dob2}, {fav2}");
