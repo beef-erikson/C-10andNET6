@@ -6,6 +6,7 @@ namespace Packt.Shared
 {
     public class Person : object // explicitly inheret from System.Object
     {
+        // Fields
         public string Name;
         public DateTime DateOfBirth;
         public WondersOfTheAncientWorld FavoriteAncientWonder;
@@ -16,7 +17,10 @@ namespace Packt.Shared
         public readonly string HomePlanet = "Earth";
         public readonly DateTime Instantiated;
 
-        // constructors
+        // Constructors
+        /// <summary>
+        /// Constructor with default values.
+        /// </summary>
         public Person()
         {
             // set default values for fields
@@ -25,6 +29,11 @@ namespace Packt.Shared
             Instantiated = DateTime.Now;
         }
 
+        /// <summary>
+        /// Constructor with parameters for Name and HomePlanet.
+        /// </summary>
+        /// <param name="initialName">string for Name.</param>
+        /// <param name="homePlanet">string for HomePlanet.</param>
         public Person(string initialName, string homePlanet)
         {
             Name = initialName;
@@ -32,7 +41,7 @@ namespace Packt.Shared
             Instantiated = DateTime.Now;
         }
 
-        // methods
+        // Methods
         /// <summary>
         /// Prints name and day of birth.
         /// </summary>
@@ -42,12 +51,21 @@ namespace Packt.Shared
         }
 
         /// <summary>
-        /// Returns Name and HomePlanet of Person
+        /// Returns Name and HomePlanet of Person.
         /// </summary>
         /// <returns>string with name and home planet.</returns>
         public string GetOrigin()
         {
             return $"{Name} was born on {HomePlanet}.";
+        }
+
+        /// <summary>
+        /// Returns tuple of Apples and 5.
+        /// </summary>
+        /// <returns>string and int of fruit.</returns>
+        public (string, int) GetFruit()
+        {
+            return ("Apples", 5);
         }
     }
 }

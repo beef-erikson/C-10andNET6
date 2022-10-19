@@ -99,3 +99,7 @@ WriteLine(format: "{0} of {1} was created at {2:hh:mm:ss} on a {2:dddd}.",
 // Prints date of birth and home planet
 beef.WriteToConsole();
 WriteLine(beef.GetOrigin());
+
+// Use the tuple GetFruit
+(string, int) fruit = beef.GetFruit();
+WriteLine($"{fruit.Item1}, {fruit.Item2} there are.");
