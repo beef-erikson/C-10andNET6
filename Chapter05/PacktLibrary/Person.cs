@@ -67,5 +67,14 @@ namespace Packt.Shared
         {
             return ("Apples", 5);
         }
+
+        /// <summary>
+        /// Returns a named tuple of fruit and number.
+        /// </summary>
+        /// <returns></returns>
+        public (string Name, int Number) GetNamedFruit()
+        {
+            return (Name: "Apples", Number: 5);
+        }
     }
 }

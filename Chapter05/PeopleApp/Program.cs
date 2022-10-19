@@ -103,3 +103,7 @@ WriteLine(beef.GetOrigin());
 // Use the tuple GetFruit
 (string, int) fruit = beef.GetFruit();
 WriteLine($"{fruit.Item1}, {fruit.Item2} there are.");
+
+// Use the named tuple GetFruitNamed
+var fruitNamed = beef.GetNamedFruit();
+WriteLine($"There are {fruitNamed.Number} {fruitNamed.Name}.");
