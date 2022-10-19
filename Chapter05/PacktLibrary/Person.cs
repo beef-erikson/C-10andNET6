@@ -13,5 +13,15 @@ namespace Packt.Shared
         public const string Species = "Homo Sapien";
         // sometimes readonly is a better solution to const
         public readonly string HomePlanet = "Earth";
+        public readonly DateTime Instantiated;
+
+        // constructors
+        public Person()
+        {
+            // set default values for fields
+            // including readonly fields
+            Name = "Unknown";
+            Instantiated = DateTime.Now;
+        }
     }
 }
