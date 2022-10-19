@@ -107,3 +107,10 @@ WriteLine($"{fruit.Item1}, {fruit.Item2} there are.");
 // Use the named tuple GetFruitNamed
 var fruitNamed = beef.GetNamedFruit();
 WriteLine($"There are {fruitNamed.Number} {fruitNamed.Name}.");
+
+// Inferring tuple names
+var thing1 = ("Neville", 4);
+WriteLine($"{thing1.Item1} has {thing1.Item2} children.");
+
+var thing2 = (beef.Name, beef.Children.Count);
+WriteLine($"{thing2.Name} has {thing2.Count} children.");
