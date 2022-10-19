@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using static System.Console;
 
 namespace Packt.Shared
 {
@@ -29,6 +30,24 @@ namespace Packt.Shared
             Name = initialName;
             HomePlanet = homePlanet;
             Instantiated = DateTime.Now;
+        }
+
+        // methods
+        /// <summary>
+        /// Prints name and day of birth.
+        /// </summary>
+        public void WriteToConsole()
+        {
+            WriteLine($"{Name} was born on a {DateOfBirth:dddd}.");
+        }
+
+        /// <summary>
+        /// Returns Name and HomePlanet of Person
+        /// </summary>
+        /// <returns>string with name and home planet.</returns>
+        public string GetOrigin()
+        {
+            return $"{Name} was born on {HomePlanet}.";
         }
     }
 }

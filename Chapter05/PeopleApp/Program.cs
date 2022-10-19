@@ -95,3 +95,7 @@ WriteLine(format: "{0} of {1} was created at {2:hh:mm:ss} on a {2:dddd}.",
     arg0: shoe.Name,
     arg1: shoe.HomePlanet,
     arg2: shoe.Instantiated);
+
+// Prints date of birth and home planet
+beef.WriteToConsole();
+WriteLine(beef.GetOrigin());
